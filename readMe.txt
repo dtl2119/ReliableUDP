@@ -1,7 +1,6 @@
 ******************************************************************************
 *
-* Programming Assignment 2: Simple TCP-like transport-layer protocol
-* CSEE W4119: Professor Vishal Misra
+* TCP-like transport-layer protocol
 * Created By: Drew Limm (dtl2119)
 *
 ******************************************************************************
